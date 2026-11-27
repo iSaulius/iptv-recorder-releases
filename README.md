@@ -1,6 +1,10 @@
-# IPTV Recorder
+<p align="center"><img src="images/icon.png" width="128" alt=""></p>
 
-Mac'o programa, kuri įrašo kanalus, užsakytus Apple TV programos **IPTV**, ir saugo įrašus šiame Mac'e. Apple TV ją randa namų tinkle pati.
+<h1 align="center">IPTV Recorder</h1>
+
+<p align="center">Mac'o programa, kuri įrašo kanalus, užsakytus Apple TV programos <b>IPTV</b>, ir saugo įrašus šiame Mac'e. Apple TV ją randa namų tinkle pati.</p>
+
+<p align="center"><img src="images/window.png" width="572" alt="IPTV Recorder langas: suplanuoti ir įrašyti įrašai"></p>
 
 ## Ką ji daro
 
