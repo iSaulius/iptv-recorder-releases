@@ -41,6 +41,8 @@ Kanalų adresai lieka tik šiame Mac'e ir niekur nesiunčiami. Programa atsako t
 
 Čia – tik paruošti programos failai; jos kodas laikomas atskirai.
 
+Patiko? [Paremkite kūrėją](https://github.com/sponsors/iSaulius).
+
 ---
 
 © 2026 iSaulius · Nemokama asmeniniam naudojimui · [Licencija](LICENSE)
