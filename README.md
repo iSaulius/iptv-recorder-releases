@@ -32,7 +32,7 @@ Telefono „Bendrinti“ pirmą kartą paprašys pasitikėti šiuo Mac'u – pus
 
 ## Reikalavimai
 
-- Mac'as ir Apple TV tame pačiame namų tinkle; Apple TV programa IPTV 0.110 ar naujesnė.
+- Mac'as ir Apple TV tame pačiame namų tinkle; Apple TV programa IPTV 0.110 ar naujesnė (kol kas viešai neplatinama).
 - Įrašymo metu Mac'as turi būti įjungtas (MacBook – atidarytu dangčiu). 12 valandų prieš suplanuotą įrašą programa neleidžia jam užmigti; užmigusio pažadinti negali.
 
 ## Privatumas
