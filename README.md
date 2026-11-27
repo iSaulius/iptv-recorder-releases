@@ -36,3 +36,7 @@ Telefono „Bendrinti“ pirmą kartą paprašys pasitikėti šiuo Mac'u – pus
 Kanalų adresai lieka tik šiame Mac'e ir niekur nesiunčiami. Programa atsako tik namų tinklo įrenginiams, įrašai lieka Mac'e.
 
 Čia – tik paruošti programos failai; jos kodas laikomas atskirai.
+
+---
+
+© 2026 iSaulius · Nemokama asmeniniam naudojimui · [Licencija](LICENSE)
